@@ -1,2 +1,1 @@
-# my-demo-repo-Madhuri
-Practice repo
+Hi this is my demo repo
